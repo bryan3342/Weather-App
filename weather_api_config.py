@@ -1,7 +1,7 @@
 import requests
 from tkinter import *
 
-api_key = 'd7ee11bdee9e375fe2eaba56f73dbcb5'
+api_key = 'Use Auth Key here'
 
 
 def api_config(user_input):
